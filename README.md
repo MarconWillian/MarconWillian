@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## Com o que trabalho:
-![Koenomatachi-SanGithub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=themarkwill&layout=compact&theme=dark&count_private=true)
+![Koenomatachi-SanGithub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marconneves&layout=compact&theme=dark&count_private=true)
 
 ## Minhas contribuições:
-![Koenomatachi-SanGithub stats](https://github-readme-stats.vercel.app/api?username=themarkwill&theme=dark&show_icons=true&count_private=true)
+![Koenomatachi-SanGithub stats](https://github-readme-stats.vercel.app/api?username=marconneves&theme=dark&show_icons=true&count_private=true)
